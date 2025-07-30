@@ -4,6 +4,13 @@ For learn how malware trojan works, and seek problems as if I'm a malware creato
 # What is part of code for?
 - It's a protocal provide contract between victim and Trojan controller function
 
+# UPDATE 7/30/2025
+- function camera view
+- function capture monitor
+- modify controller command eazy to use
+- function client
+- function shutdown
+
 # UPDATE 7/27/2025
 - function phase header list to string
 - function phase header string to list
