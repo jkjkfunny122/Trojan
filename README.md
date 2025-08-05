@@ -1,6 +1,9 @@
 # Trojan
 For learn how malware trojan works, and seek problems as if I'm a malware creator
 
+#link download compared program
+https://drive.google.com/drive/folders/1uZxMC8i-w7C3j52YByg2A8GlSMWU_NWJ?usp=sharing
+
 # What is part of code for?
 - It's a protocal provide contract between victim and Trojan controller function
 
