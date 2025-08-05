@@ -4,6 +4,13 @@ For learn how malware trojan works, and seek problems as if I'm a malware creato
 # What is part of code for?
 - It's a protocal provide contract between victim and Trojan controller function
 
+# UPDATE 8/5/2025
+Big optimize code and make it eazy to devlopment
+- function broadcast packet
+- function check socket
+- bind and send in one time
+- header class for the right imformation
+
 # UPDATE 7/30/2025
 - function camera view
 - function capture monitor
